@@ -14,7 +14,7 @@
   <a href="https://tryhackme.com/p/syl4s" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://hackviser.com/p/Syl4s" target="_blank">
+  <a href="https://app.hackviser.com/Syl4s" target="_blank">
     <img src="https://img.shields.io/badge/Hackviser-000000?style=flat&logo=hackviser&logoColor=white" />
   </a>
 </p>
